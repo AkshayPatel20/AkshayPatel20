@@ -14,7 +14,5 @@ Hello there! 👋 I'm Akshay Patel, a passionate Software Develoepr who loves di
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-# [![](https://visitcount.itsvg.in/api?id=AkshayPatel20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
