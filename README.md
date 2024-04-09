@@ -6,7 +6,7 @@ Hello there! 👋 I'm Akshay Patel, a passionate Software Develoepr who loves di
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akshaypatel9244) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaypatel20/) 
 ### Projects:
 [![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://akshaypatel20.github.io/portfolio/)
-[![Netflix Clone](https://img.shields.io/badge/NETFLIXCLONE-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://akshaypatel20.github.io/netflix-clone/)
+[![Netflix Clone](https://img.shields.io/badge/NETFLIXCLONE-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://netflix-akshaypatel20.web.app/)
 [![REACT PROJECTS](https://img.shields.io/badge/REACTPROJECTS-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://personal-projects-3a869.web.app/)
 [![TICTACTOE](https://img.shields.io/badge/TICTACTOE-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://akshaypatel20.github.io/tic-tac-toe-game/)
 
