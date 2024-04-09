@@ -7,7 +7,7 @@ Hello there! 👋 I'm Akshay Patel, a passionate Software Develoepr who loves di
 ### Projects:
 [![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://akshaypatel20.github.io/portfolio/)
 [![Netflix Clone](https://img.shields.io/badge/NETFLIXCLONE-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://netflix-akshaypatel20.web.app/)
-[![REACT PROJECTS](https://img.shields.io/badge/REACTPROJECTS-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://personal-projects-3a869.web.app/)
+[![CASECONVERTER](https://img.shields.io/badge/CASECONVERTER-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://caseconverter-akshaypatel20.web.app/)
 [![TICTACTOE](https://img.shields.io/badge/TICTACTOE-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://akshaypatel20.github.io/tic-tac-toe-game/)
 
 # 💻 Tech Stack:
