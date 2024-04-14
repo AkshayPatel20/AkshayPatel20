@@ -28,6 +28,11 @@ Here are some of the projects I've been working on:
 - **Website**: [Project Website](https://akshaypatel20.github.io/tic-tac-toe-game/)
 - **GitHub**: [Project Repository](https://github.com/AkshayPatel20/tic-tac-toe-game)
 
+#### NMITD COLLEGE APP
+- **Technology**: HTML5, CSS3, JAVASCRIPT, JQUERY, PHP, MYSQL, CORDOVA
+- **APPLINK**: [Project Website](https://drive.google.com/file/d/1IKYMfxE72GIvs6T-I4VRKJlL4ca2ye27/view)
+- **GitHub**: [Project Repository](https://github.com/AkshayPatel20/Nmitd-App)
+
 #### EARLY BIRD CLOTHING
 - **Technology**: HTML5, CSS3, JAVASCRIPT, JQUERY, PHP, MYSQL
 - **Website**: [Project Website](http://earlybird-clothing-akshaypatel20.unaux.com/)
