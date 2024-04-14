@@ -9,10 +9,9 @@ Hello there! 👋 I'm Akshay Patel, a passionate Software Develoepr who loves di
 
 Here are some of the projects I've been working on:
 
-#### Project Title 1
-- **Technology**: Brief description of the project.
-- **Website**: [Project Website](https://www.example.com)
-- **GitHub**: [Project Repository](https://github.com/yourusername/project1)
+#### PORTFOLIO
+- **Technology**: HTML5, CSS3, JAVASCRIPT, JQUERY, PHP, MYSQL
+- **Website**: [Project Website](http://portfolio-akshaypatel20.free.nf/)
 
 #### Project Title 2
 - **Technology**: Brief description of the project.
