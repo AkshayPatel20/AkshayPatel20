@@ -5,6 +5,27 @@ Hello there! 👋 I'm Akshay Patel, a passionate Software Develoepr who loves di
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akshaypatel9244) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaypatel20/) 
 
+## Project List
+
+Here are some of the projects I've been working on:
+
+## Project Title 1
+- **Technology**: Brief description of the project.
+- **Website**: [Project Website](https://www.example.com)
+- **GitHub**: [Project Repository](https://github.com/yourusername/project1)
+
+## Project Title 2
+- **Technology**: Brief description of the project.
+- **Website**: [Project Website](https://www.example.com)
+- **GitHub**: [Project Repository](https://github.com/yourusername/project2)
+
+## Project Title 3
+- **Technology**: Brief description of the project.
+- **Website**: [Project Website](https://www.example.com)
+- **GitHub**: [Project Repository](https://github.com/yourusername/project3)
+
+Feel free to explore these projects and contribute!
+
 ## 💻 Projects:
 [![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://portfolio-akshaypatel20.free.nf/)
 [![Netflix Clone](https://img.shields.io/badge/NETFLIX-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://netflix-akshaypatel20.web.app/)
