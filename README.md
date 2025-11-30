@@ -11,7 +11,7 @@ Here are some of the projects I've been working on:
 
 #### PORTFOLIO
 - **Technology**: HTML5, CSS3, JAVASCRIPT, JQUERY, PHP, MYSQL
-- **Website**: [Project Website](http://portfolio-akshaypatel20.free.nf/)
+- **Website**: [Project Website](https://portfolio-akshaypatel.web.app/)
 
 #### NETFLIX CLONE
 - **Technology**: REACT, FIREBASE
