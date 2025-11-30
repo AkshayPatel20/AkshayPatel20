@@ -10,7 +10,7 @@ Hello there! 👋 I'm Akshay Patel, a passionate Software Develoepr who loves di
 Here are some of the projects I've been working on:
 
 #### PORTFOLIO
-- **Technology**: HTML5, CSS3, JAVASCRIPT, JQUERY, PHP, MYSQL
+- **Technology**: REACT, FIREBASE
 - **Website**: [Project Website](https://portfolio-akshaypatel.web.app/)
 
 #### NETFLIX CLONE
